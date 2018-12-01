@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>���켸��Ĳ���</title>
+  <title></title>
   
-  <subtitle>��δ�������ȥ����ŵ�</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2018-11-30T02:30:37.163Z</updated>
   <id>http://yoursite.com/</id>
-  
-  <author>
-    <name>ktjd</name>
-    
-  </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
