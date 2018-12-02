@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/lib/three/package.json</loc>
+    
+    <lastmod>2018-12-02T15:40:14.491Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/lib/three/README.html</loc>
+    
+    <lastmod>2018-12-02T15:40:14.473Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/categories/index.html</loc>
     
     <lastmod>2018-12-01T15:08:03.028Z</lastmod>
