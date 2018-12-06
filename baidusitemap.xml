@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     
-    
-    
-    
   <url>
-    <loc>http://yoursite.com/2018/11/30/%E4%BD%A0%E5%A5%BD%EF%BC%8CHexo/</loc>
-    <lastmod>2018-11-30T02:30:37.163Z</lastmod>
+    <loc>http://yoursite.com/2018/12/06/hello/</loc>
+    <lastmod>2018-12-06T07:51:44.961Z</lastmod>
     <data>
         <display>
-        <title>你好，Hexo</title>
-        <pubTime>2018-11-30T02:30:37.000Z</pubTime>
+        <title>hello</title>
+        <pubTime>2018-12-06T07:51:44.000Z</pubTime>
         
          
            
@@ -20,18 +17,6 @@
     </url>
 
     
-  <url>
-    <loc>http://yoursite.com/2018/11/29/hello-world/</loc>
-    <lastmod>2018-11-29T10:28:44.170Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-11-29T10:28:44.169Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
+    
+    
 </urlset>
